@@ -9,17 +9,18 @@ This repository contains the source code for  portfolio website, showcasing my s
 ## Getting Started
 
 1. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/awkward-py/Next.js-Portfolio.git
    ```
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
    ```bash
    cd Next.js-Portfolio
    npm install
    ```
 
-3. **Run the Development Server:**
+4. **Run the Development Server:**
    ```bash
    npm run dev
    ```
