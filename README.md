@@ -9,7 +9,6 @@ This repository contains the source code for  portfolio website, showcasing my s
 ## Getting Started
 
 1. **Clone the Repository:**
-   
 
    ```bash
    git clone https://github.com/awkward-py/Next.js-Portfolio.git
