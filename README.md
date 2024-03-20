@@ -5,7 +5,6 @@ Welcome to my portfolio repository built with Next.js and Tailwind CSS!
 
 This repository contains the source code for  portfolio website, showcasing my skills, projects, and more. It's built using the [Next.js](https://nextjs.org/) framework for React and styled with [Tailwind CSS](https://tailwindcss.com/) for a sleek and responsive design.
 
-
 ## Getting Started
 
 1. **Clone the Repository:**
